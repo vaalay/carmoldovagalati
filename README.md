@@ -1,2 +1,1 @@
-*index.html
-*index *contact.html
+#index.html
